@@ -131,13 +131,18 @@ Some insights obtained from the analysis include:
 
 (visuals/weekly_training_volume.png)
 
-### Performance Trend Over Time
+### Average speed over Tome
 
-(visuals/performance_trend_over_time.png)
+(visuals/vaverage_speed_over_time.png)
 
-### Monthly Training Volume
+### Training activity
 
-(visuals/monthly_training_volume.png)
+(visuals/training_activity_heatmap.png)
+
+### Training load vs Rolling Average
+
+(visuals/training_load_vs_rolling_avg.png)
+
 
 ---
 
